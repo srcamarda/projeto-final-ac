@@ -2,4 +2,4 @@
 
 ## Professor: Alex Araujo
 
-## Alunos:
+## Alunos: Pedro Antonio Souza
