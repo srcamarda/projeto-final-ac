@@ -3,4 +3,6 @@
 ## Professor: Alex Araujo
 
 ## Alunos:
+
+Pedro Antonio Souza  - Presente
 Rafael Santos Isidro - Presente
