@@ -5,7 +5,7 @@
 
 ## Projeto final - Agenda Telefônica
 
-Este projeto consiste em agenda telefônica simples em Java. A aplicação permite adicionar, remover, editar e vizualizar contatos, além de salvar e carregar os dados em arquivos de texto.
+Este projeto consiste em uma agenda telefônica simples em Java. A aplicação permite adicionar, remover, editar e vizualizar contatos, além de salvar e carregar os dados em arquivos de texto.
 
 ### Como usar
 
