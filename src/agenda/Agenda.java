@@ -309,7 +309,7 @@ public class Agenda {
             System.out.printf("\n%d  |   %s %d", phone.getId(), phone.getDdd(), phone.getNumero());
         }
 
-        System.out.print("\nSelecione uma opção: ");
+        System.out.print("\n\nSelecione uma opção: ");
         long phoneId = input.nextLong();
         input.nextLine();
 
@@ -345,6 +345,9 @@ public class Agenda {
 
         phone.setDdd(ddd);
         phone.setNumero(phoneNumber);
+
+        //Rewrite the files with the modified lists
+        Arquivo.rewriteFiles();
     }
 
     //View contact information
